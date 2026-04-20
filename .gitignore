@@ -1,0 +1,6 @@
+config.json
+data_store/
+__pycache__/
+*.pyc
+*.docx
+*.bat
